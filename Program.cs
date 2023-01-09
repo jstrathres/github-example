@@ -48,7 +48,7 @@ string friend = "Tom";
 //family = IceMan
 if (friend == "Family")
 {
-    myName = "Josh";
+    myName = "Joshua";
 }
 else if (friend == "Tom")
 {
